@@ -1,2 +1,3 @@
-Código simples de um pequeno jogo de adivinhação.
-Fiz um código com um secret_number fixo e outro codificado com um secret_number aleatório.
+Galeria de jogos simples
+
+Pequena galeria de jogos simples todos baseados em python.
