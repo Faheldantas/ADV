@@ -1,6 +1,6 @@
 import random
 def jogar():
-
+    
     print("################################")
     print("Bem Vindo ao jogo de Adivinhação")
     print("################################")
@@ -51,6 +51,3 @@ def jogar():
         rodada = rodada + 1
     
         print("Tente outra vez")
-
-if(__name__ == "__main__"):
-    jogar()
